@@ -1,3 +1,4 @@
+$(function(){$('td#inlineimgICON span.inlineimg-id span a').each(function(){var a=$(this).attr('href');var b=$(this).text();$(this).prepend('<a href="'+a+'" title="'+b+'"></a>');$(this).children('a').load(a+'#page-body #td_post_501 .postdetailsICON img:eq(0)',function(){$(this).children('img').attr('class','a7la7ekaya-div')});$(this).find('').insertBefore($(this))})});		
 
 /*
 ---
@@ -348,4 +349,3 @@ var LightFace = new Class({
 	}
 });
 
-$(function(){$('td#inlineimgICON span.inlineimg-id span a').each(function(){var a=$(this).attr('href');var b=$(this).text();$(this).prepend('<a href="'+a+'" title="'+b+'"></a>');$(this).children('a').load(a+'#page-body #td_post_501 .postdetailsICON img:eq(0)',function(){$(this).children('img').attr('class','a7la7ekaya-div')});$(this).find('').insertBefore($(this))})});		
