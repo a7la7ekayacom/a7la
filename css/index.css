@@ -1,0 +1,226 @@
+﻿
+
+#indexbg {
+background-color:#e6eaf0;
+width:100%;
+height:600px;
+margin:0 auto;
+padding-bottom:20px;
+}
+
+#page {
+width:1000px;
+padding-top:40px;
+}
+
+#content {
+text-align:right;
+padding-right:60px;
+}
+
+.slogan {
+font-family:Arial, Times New Roman;
+color:#333;
+font-size:28px;
+line-height:36px;
+padding-bottom:20px;
+}
+
+.itemalignment {
+margin-top:20px;
+padding-bottom:10px;
+}
+
+.itemimg {
+display:inline-block;
+vertical-align:middle;
+margin-left:20px;
+text-align:center;
+width:55px;
+}
+
+.item {
+display:inline-block;
+vertical-align:middle;
+width:300px;
+}
+
+.itemtitle {
+margin-top:20px;
+font-family:Arial, Times New Roman;
+font-size:17px;
+line-height:22px;
+color:#333;
+font-weight:bold;
+}
+
+.itemdescp {
+margin-right:6px;
+font-family:Tahoma, Arial;
+font-size:14px;
+line-height:20px;
+color:#666;
+font-weight:normal
+}
+
+
+/* Register styles */
+
+#regbtn {
+float:left;
+margin-left:20px;
+margin-top:-420px;
+}
+
+.formline{
+	border-top:1px solid #a1a9bf;
+	padding-bottom:6px;
+}
+
+.input-container p{
+color: #757575;
+font-family: Tahoma,verdana,arial,sans-serif;
+font-size: 13px;
+margin: 10px 0 10px 0;
+}
+
+.input-container input{
+	padding:3px;
+	color:#333333;
+	border-radius: 5px 5px 5px 5px;
+	border:1px solid #bcc6d6;
+	margin-top:2px;
+	width: 250px;
+	height: 35px;
+	padding:0px;
+	font-weight:bold;
+	font-size:17px;
+	font-family:Tahoma,Verdana,Arial,sans-serif;
+}
+
+.input-container select{
+	width:auto;
+	padding:2px;
+	color:#333333;
+	border-radius: 5px 5px 5px 5px;
+	border:1px solid #bcc6d6;
+	margin-top:2px;
+	height: 28px;
+	padding:0px;
+	font-weight:normal;
+	font-size:16px;
+	font-family:Tahoma,Verdana,Arial,sans-serif;
+}
+
+.radio {
+cursor: pointer;
+direction: rtl;
+display: block;
+font-family: Tahoma,verdana,arial,sans-serif;
+font-size: 19px;
+font-weight: 400;
+line-height: 18px;
+margin-right: 17px;
+padding-bottom: 6px;
+padding-left: 4px;
+padding-right: 4px;
+padding-top: 6px;
+text-align: right;
+vertical-align: middle;
+}
+
+.label label{
+	font-weight:normal;
+	font-size:14px;
+	font-family:Tahoma,Verdana,Arial,sans-serif;
+	cursor: pointer;
+	float:left;
+}
+
+#div-regForm,.registered{
+	padding:10px;
+	width:400px;
+	color:#333;
+}
+
+.form-title{
+	font-size: 36px;
+	font-family:Tahoma,Verdana,Arial,sans-serif;
+	font-weight:bold;
+	margin-bottom: 5px;
+	line-height: 120%;
+}
+
+.form-sub-title{
+	font-weight:normal;
+	margin-bottom: 20px;
+	font-size: 20px;
+	line-height: 126%;
+	font-family:Tahoma,Verdana,Arial,sans-serif;
+}
+
+.gButton{
+	margin-top:-4px;
+}
+
+.greenButton{
+background-attachment: scroll;
+background-clip: border-box;
+background-color: #6aa64e;
+background-origin: padding-box;
+background-position: 0% 0%;
+background-repeat: repeat;
+background-size: auto auto;
+border-bottom-color: rgb(44, 81, 21);
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-image-outset: 0 0 0 0;
+border-image-repeat: stretch stretch;
+border-image-slice: 100% 100% 100% 100%;
+border-image-source: none;
+border-image-width: 1 1 1 1;
+border-left-color: rgb(59, 110, 34);
+border-left-style: solid;
+border-left-width: 1px;
+border-right-color: rgb(59, 110, 34);
+border-right-style: solid;
+border-right-width: 1px;
+border-top-color: rgb(59, 110, 34);
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-top-style: solid;
+border-top-width: 1px;
+box-shadow: rgb(164, 227, 136) 0px 1px 1px 0px inset;
+color: rgb(255, 255, 255);
+cursor: pointer;
+direction: rtl;
+display: inline-block;
+font-family: Tahoma,verdana,arial,sans-serif;
+font-size: 20px;
+font-weight: 700;
+letter-spacing: 1px;
+line-height: 25.2px;
+margin-bottom: 10px;
+margin-left: 0px;
+margin-right: 130px;
+margin-top: 10px;
+min-width: 194px;
+padding-bottom: 7px;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 7px;
+position: relative;
+text-align: center;
+text-shadow: rgba(0, 0, 0, 0.5) 0px 1px 2px;
+-moz-border-bottom-colors: none;
+-moz-border-left-colors: none;
+-moz-border-right-colors: none;
+-moz-border-top-colors: none;
+}
+
+.greenButton:active{
+	background-color:#77b865;
+	
+}
