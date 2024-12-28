@@ -1,0 +1,189 @@
+﻿ul.goingon-box {
+	width: 100%;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+ul.goingon-box li {
+	float: right;
+	width: 19.60%;
+	height: 90px;
+	display: inline-block;
+	margin-left: 0.50%;
+	background: #f7f7f7;
+	position: relative;
+}
+ul.goingon-box li .cm_activeusers-icon {
+	position: absolute;
+	top: 24px;
+	left: 10px;
+	width: 42px;
+	height: 41px;
+	background-position: -85px -92px;
+}
+.fullimg {
+	background-image: url(https://i73.servimg.com/u/f73/14/44/77/00/allima10.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-attachment: scroll;
+}
+div#cm_activeusers {
+	position: relative;
+	top: 0;
+	right: 0;
+	width: 120px; /* height: 90px; */;
+	text-align: center;
+	font-size: 0px;
+}
+div#cm_activeusers strong {
+	/* font-size: 20px; */
+    position: absolute;
+	top: 25px;
+	right: 0;
+	width: 120px;
+	font-size: 24px;
+	text-align: center;
+	padding-bottom: 5px;
+}
+ul.goingon-box li .cm_numbermembers-icon {
+	position: absolute;
+	top: 24px;
+	left: 10px;
+	width: 42px;
+	height: 41px;
+	background-position: -85px -1px;
+}
+ul.goingon-box li .cm_numbermembers {
+	position: relative;
+	top: 0;
+	right: 0;
+	width: 120px;
+	height: 90px;
+	text-align: center;
+}
+ul.goingon-box li .cm_numbermembers span {
+	position: absolute;
+	top: 25px;
+	right: 0;
+	width: 120px;
+	font-size: 24px;
+	text-align: center;
+	padding-bottom: 5px;
+}
+.cm_numbermembers .a7la-COUNTOPIC, .cm_numbermembers .a7la-COUNTPOST {
+	font-size: 0px;
+}
+ul.goingon-box li .cm_numbermembers strong {
+	position: absolute;
+	top: 55px;
+	right: 5px;
+	width: 105px;
+	font-size: 11px;
+	text-align: center;
+	font-weight: normal;
+	border-top: 1px dotted #CCC;
+	padding: 3px 5px 0 5px;
+}
+ul.goingon-box li .cm_totalthreads-icon {
+	position: absolute;
+	top: 24px;
+	left: 10px;
+	width: 42px;
+	height: 41px;
+	background-position: -133px -46px;
+}
+ul.goingon-box li .cm_totalthreads {
+	position: relative;
+	top: 0;
+	right: 0;
+	width: 120px;
+	height: 90px;
+	text-align: center;
+}
+.cm_totalthreads .a7la-COUNTPOST, .cm_totalthreads .a7la-COUNTUSER {
+    font-size: 0px;
+}
+ul.goingon-box li .cm_totalthreads strong {
+    position: absolute;
+    top: 55px;
+    right: 5px;
+    width: 105px;
+    font-size: 11px;
+    text-align: center;
+    font-weight: normal;
+    border-top: 1px dotted #CCC;
+    padding: 3px 5px 0 5px;
+}
+ul.goingon-box li .cm_totalposts-icon {
+    position: absolute;
+    top: 24px;
+    left: 10px;
+    width: 42px;
+    height: 41px;
+    background-position: -85px -46px;
+}
+
+ul.goingon-box li .cm_totalposts {
+    position: relative;
+    top: 0;
+    right: 0;
+    width: 120px;
+    height: 90px;
+    text-align: center;
+}
+.cm_totalposts .a7la-COUNTOPIC, .cm_totalposts .a7la-COUNTUSER {
+    font-size: 0px;
+}
+ul.goingon-box li .cm_totalposts strong {
+    position: absolute;
+    top: 55px;
+    right: 5px;
+    width: 105px;
+    font-size: 11px;
+    text-align: center;
+    font-weight: normal;
+    border-top: 1px dotted #CCC;
+    padding: 3px 5px 0 5px;
+}
+ul.goingon-box li {
+    float: right;
+    width: 19.60%;
+    height: 90px;
+    display: inline-block;
+    margin-left: 0.50%;
+    background: #f7f7f7;
+    position: relative;
+}
+ul.goingon-box li .cm_newuser-icon {
+    position: absolute;
+    top: 24px;
+    left: 10px;
+    width: 42px;
+    height: 41px;
+    background-position: -133px -1px;
+}
+ul.goingon-box li .cm_newuser {
+    position: relative;
+    top: 0;
+    right: 0;
+    width: 120px;
+    height: 70px;
+    padding-top: 20px;
+    text-align: center;
+}
+.cm_NEWEST_USER {
+    font-size: 0px;
+}
+ul.goingon-box li .cm_newuser strong {
+    position: absolute;
+    right: 5px;
+    width: 105px;
+    font-size: 11px;
+    text-align: center;
+    font-weight: normal;
+    border-top: 1px dotted #CCC;
+    padding: 3px 5px 0 5px;
+}
+ul.goingon-box li .cm_newuser a {
+    font-size: 15px;
+}
