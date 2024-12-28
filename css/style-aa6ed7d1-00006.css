@@ -1,0 +1,360 @@
+﻿body
+{
+	background: #ffffff;
+	color: #3b5996;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	overflow-y: scroll;
+}
+a:link, body_alink
+{
+	color: #3b5996;
+	text-decoration: none;
+}
+a:visited, body_avisited
+{
+	color: #3b5996;
+	text-decoration: none;
+}
+a:hover, a:active, body_ahover
+{
+	color: #3b5996;
+	text-decoration: underline;
+}
+.page
+{
+	background: transparent;
+	color: #3b5996;
+	font-family: tahoma, arial, helvetica, sans-serif;
+}
+.tborder
+{
+	background: #f0f0f0;
+	color: #3b5996;
+	border: 0px solid #e9e9e9;
+}
+.tcat
+{
+	background: #3b5996;
+	color: #d8dee8;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+}
+.tcat a:link, .tcat_alink
+{
+	color: #d8dee8;
+	text-decoration: none;
+}
+.tcat a:visited, .tcat_avisited
+{
+	color: #d8dee8;
+	text-decoration: none;
+}
+.tcat a:hover, .tcat a:active, .tcat_ahover
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+.thead
+{
+	background: #f9f9f9;
+	color: #3b5996;
+	font: 11px tahoma, Arial Black, Arial, helvetica, sans-serif;
+	border-bottom: 1px solid #d9d9d9;
+	height:22px;
+}
+.thead a:link, .thead_alink
+{
+	color: #3b5996;
+	text-decoration: none;
+}
+.thead a:visited, .thead_avisited
+{
+	color: #3b5996;
+	text-decoration: none;
+}
+.thead a:hover, .thead a:active, .thead_ahover
+{
+	color: #3b5996;
+	text-decoration: underline;
+}
+.tfoot
+{
+	color: #7791c3;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+}
+.tfoot a:link, .tfoot_alink
+{
+	color: #7791c3;
+}
+.tfoot a:visited, .tfoot_avisited
+{
+	color: #7791c3;
+}
+.tfoot a:hover, .tfoot a:active, .tfoot_ahover
+{
+	color: #8ba3d1;
+	text-decoration: underline;
+}
+.alt1, .alt1Active
+{
+	background: #FFFFFF;
+	color: #383838;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+}
+.alt1 a:hover, .alt1 a:active, .alt1_ahover, .alt1Active a:hover, .alt1Active a:active, .alt1Active_ahover
+{
+	text-decoration: underline;
+}
+.alt2, .alt2Active
+{
+	background: #fefefe;
+	color: #383838;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+}
+.alt2 a:hover, .alt2 a:active, .alt2_ahover, .alt2Active a:hover, .alt2Active a:active, .alt2Active_ahover
+{
+	text-decoration: underline;
+}
+.inlinemod
+{
+	background: #fcfcd9;
+	color: #000000;
+}
+.wysiwyg
+{
+	background: #FFFFFF;
+	color: #383838;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+	margin: 5px 10px 10px 10px;
+	padding: 0px;
+}
+.wysiwyg a:hover, .wysiwyg a:active, .wysiwyg_ahover
+{
+	text-decoration: underline;
+}
+textarea, .bginput
+{
+	font: 12px tahoma, arial, helvetica, sans-serif;
+	border: 1px solid #bcc6d6;
+}
+.bginput option, .bginput optgroup
+{
+	font-size: 12px;
+	font-family: tahoma, arial, helvetica, sans-serif;
+}
+.button
+{
+	background: #617aac;
+	color: #FFFFFF;
+	font: bold 12px tahoma, arial, helvetica, sans-serif;
+	border-style: solid;
+	height:24px;
+	cursor:pointer;
+	padding: 2px 6px 4px 6px;
+	text-align:center;
+	vertical-align:top;
+	white-space:nowrap;
+	border-width:1px;
+	margin-left:3px
+	line-height:normal !important;
+	display:inline-block;
+	color:#fff;
+	text-indent:0;
+	text-shadow:none;
+	background-image:url(https://i76.servimg.com/u/f76/15/53/11/89/button14.png);
+	border-color: #29447E #29447E #1A356E;
+	background-position:0 -48px;
+}
+select
+{
+	font: 11px tahoma, arial, helvetica, sans-serif;
+	border: 1px solid #bcc6d6;
+}
+option, optgroup
+{
+	font-size: 11px;
+	font-family: tahoma, arial, helvetica, sans-serif;
+}
+.smallfont
+{
+	font: 11px tahoma, arial, helvetica, sans-serif;
+}
+.time
+{
+	color: #2c4c8f;
+	font: bold 11px arial, helvetica, sans-serif;
+}
+.navbar
+{
+	font: bold 11px tahoma, verdana, geneva, arial, helvetica, sans-serif;
+}
+.highlight
+{
+	color: #2c4c8f;
+	font-weight: bold;
+}
+.fjsel
+{
+	background: #3b5996;
+	color: #FFFFFF;
+}
+.fjdpth0
+{
+	background: #d8dee8;
+	color: #3b5996;
+}
+.panel
+{
+	background: #FFFFFF;
+	color: #2c4c8f;
+	padding: 5px;
+	border: 1px solid #CCCCCC;
+	border-radius:6px;-webkit-border-radius:6px;-moz-border-radius:6px; 
+}
+.panelsurround
+{
+	background: #d8dee8;
+	color: #3b5996;
+	border-radius:6px;-webkit-border-radius:6px;-moz-border-radius:6px; 
+}
+legend
+{
+	color: #383838;
+	font: bold 12px tahoma, arial, helvetica, sans-serif;
+	padding: 0 10px 0 10px;
+}
+.vbmenu_control
+{
+	background: #6d84b4;
+	color: #FFFFFF;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+	padding: 3px 6px 3px 6px;
+	white-space: nowrap;
+}
+.vbmenu_control a:link, .vbmenu_control_alink
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_control a:visited, .vbmenu_control_avisited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_control a:hover, .vbmenu_control a:active, .vbmenu_control_ahover
+{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.vbmenu_popup
+{
+	background: #FFFFFF;
+	color: #6d84b4;
+	border: 1px solid #6d84b4;
+}
+.vbmenu_option
+{
+	background: #FFFFFF;
+	color: #6d84b4;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_option a:link, .vbmenu_option_alink
+{
+	color: #3B5998;
+	text-decoration: none;
+}
+.vbmenu_option a:visited, .vbmenu_option_avisited
+{
+	color: #3B5998;
+	text-decoration: none;
+}
+.vbmenu_option a:hover, .vbmenu_option a:active, .vbmenu_option_ahover
+{
+	color: #6d84b4;
+	text-decoration: none;
+}
+.vbmenu_hilite
+{
+	background: #6d84b4;
+	color: #FFFFFF;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_hilite a:link, .vbmenu_hilite_alink
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_hilite a:visited, .vbmenu_hilite_avisited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_hilite a:hover, .vbmenu_hilite a:active, .vbmenu_hilite_ahover
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+/* ***** styling for 'big' usernames on postbit etc. ***** */
+.bigusername { font-family: Georgia, Arial; font-size: 13pt; font-weight: bold; }
+
+/* ***** small padding on 'thead' elements ***** */
+td.thead, th.thead, div.thead { padding: 4px; }
+
+/* ***** basic styles for multi-page nav elements */
+.pagenav a { text-decoration: none; }
+.pagenav td { padding: 2px 4px 2px 4px; }
+
+/* ***** de-emphasized text */
+.shade, a.shade:link, a.shade:visited { color: #777777; text-decoration: none; }
+a.shade:active, a.shade:hover { color: #FF4400; text-decoration: underline; }
+.tcat .shade, .thead .shade, .tfoot .shade { color: #DDDDDD; }
+
+/* ***** define margin and font-size for elements inside panels ***** */
+.fieldset { border-top: 1px solid #e0e0e0; border-bottom:none; border-left:none; border-right:none; font-size: 12px; margin-top:-10px; padding: 10px 40px 20px 40px;}
+.fieldset:hover { background-color:#fbfbfb; }
+.fieldset input[type='text']{ height:18px;font-size:12px; }
+.fieldset select{ height:24px;font-size:12px; }
+
+/* Mouse Selection */
+
+::selection {
+background:#d8dee8;
+color:#3b5996;
+}
+::-moz-selection {
+background:#d8dee8;
+color:#3b5996;
+}
+::-webkit-selection {
+background:#d8dee8;
+color:#3b5996;
+}
+
+/* 
+ * Droid Arabic Kufi (Arabic) http://www.google.com/webfonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.eot);
+  src: url(http://themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.eot#iefix) format('embedded-opentype'),
+       url(http://themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.woff2) format('x-woff2'),
+       url(http://themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.woff) format('woff'),
+       url(http://themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 700;
+  src: url(http://themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.eot);
+  src: url(http://themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.eot#iefix) format('embedded-opentype'),
+       url(http://themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.woff2) format('x-woff2'),
+       url(http://themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.woff) format('woff'),
+       url(http://themes.googleusercontent.com/static/fonts/earlyaccess/droidarabickufi/v3/DroidKufi-Bold.ttf) format('truetype');
+}
