@@ -31,6 +31,17 @@ ul.goingon-box li .cm_totalposts span {
     text-align: center;
     padding-bottom: 5px;
 }
+strong.strong_NEWEST_USER {
+    position: absolute;
+    top: 55px;
+    right: 5px;
+    width: 105px;
+    font-size: 11px;
+    text-align: center;
+    font-weight: normal;
+    border-top: 1px dotted #CCC;
+    padding: 3px 5px 0 5px;
+}
 ul.goingon-box li .cm_activeusers strong {
     position: absolute;
     top: 55px;
