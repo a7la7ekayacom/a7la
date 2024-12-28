@@ -213,7 +213,7 @@ ul.goingon-box li .cm_newuser strong {
     font-size: 11px;
     text-align: center;
     font-weight: normal;
-    border-top: 1px dotted #CCC;
+    /* border-top: 1px dotted #CCC;
     padding: 3px 5px 0 5px;
 }
 ul.goingon-box li .cm_newuser a {
