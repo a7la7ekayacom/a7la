@@ -13,6 +13,15 @@ ul.goingon-box li {
 	background: #f7f7f7;
 	position: relative;
 }
+ul.goingon-box li .cm_totalthreads span {
+    position: absolute;
+    top: 25px;
+    right: 0;
+    width: 120px;
+    font-size: 24px;
+    text-align: center;
+    padding-bottom: 5px;
+}
 ul.goingon-box li .cm_activeusers-icon {
 	position: absolute;
 	top: 24px;
@@ -145,15 +154,7 @@ ul.goingon-box li .cm_totalposts strong {
     border-top: 1px dotted #CCC;
     padding: 3px 5px 0 5px;
 }
-ul.goingon-box li {
-    float: right;
-    width: 19.50%;
-    height: 90px;
-    display: inline-block;
-    margin-left: 0.50%;
-    background: #f7f7f7;
-    position: relative;
-}
+
 ul.goingon-box li .cm_newuser-icon {
     position: absolute;
     top: 24px;
