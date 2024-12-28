@@ -1,0 +1,42 @@
+﻿/*
+Author: https://www.facebook.com/Flying1free
+Description: Manage how the links in the empty advertisement slots are displayed..
+*/
+
+.adsens {
+ width:178px;
+ min-height:80px;
+ padding:10px 2px 10px 2px;
+ border-bottom:1px dashed #3b5996;
+}
+
+.adstitle a{
+ text-decoration:none;
+ color:#3b5996;
+ font-size:12px;
+ font-weight:bold;
+ font-family:tahoma;
+ padding:6px 0px 10px 0px;
+}
+
+.adstitle a:hover{
+ text-decoration:underline;
+ color:#ff0000;
+}
+.adstext{
+ font-size:12px;
+ font-weight:normal;
+ font-family:tahoma;
+ color:#000000;
+ padding:3px 0px 3px 0px;
+ text-decoration:none;
+}
+
+.adslink {
+ font-size:12px;
+ font-weight:bold;
+ font-family:tahoma;
+ direction:ltr;
+ color:#32AF38;
+ padding-left:4px;
+}
