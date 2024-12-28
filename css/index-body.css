@@ -187,3 +187,11 @@ ul.goingon-box li .cm_newuser strong {
 ul.goingon-box li .cm_newuser a {
     font-size: 15px;
 }
+.forum-content {
+    border: solid 5px #EEE;
+}
+
+.forum-content {
+    margin: 0px auto 10px auto;
+    padding: 0px;
+}
